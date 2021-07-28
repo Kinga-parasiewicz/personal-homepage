@@ -10,7 +10,8 @@ export const GlobalStyle = createGlobalStyle`
   }
   
   body {
-      background-color: ${({ theme }) => theme.color.whiteLilac};
+      color: ${({ theme }) => theme.colors.site.text};
+      background: ${({ theme }) => theme.colors.site.background};
       word-break:break-word;
       overflow-y:scroll;
       font-size:18px;
