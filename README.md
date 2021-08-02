@@ -1,6 +1,6 @@
 # Personal homepage
 
-## Descritpion 
+## Description 
 Website about me, my projects, my skills. 
 What I want to learn in the future. 
 And You can contact me.
