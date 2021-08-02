@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/personal-homepage/static/js/main.ff8e185f.chunk.js",
+    "main.js.map": "/personal-homepage/static/js/main.ff8e185f.chunk.js.map",
+    "runtime-main.js": "/personal-homepage/static/js/runtime-main.bfedf288.js",
+    "runtime-main.js.map": "/personal-homepage/static/js/runtime-main.bfedf288.js.map",
+    "static/js/2.174497e2.chunk.js": "/personal-homepage/static/js/2.174497e2.chunk.js",
+    "static/js/2.174497e2.chunk.js.map": "/personal-homepage/static/js/2.174497e2.chunk.js.map",
+    "static/js/3.16be925e.chunk.js": "/personal-homepage/static/js/3.16be925e.chunk.js",
+    "static/js/3.16be925e.chunk.js.map": "/personal-homepage/static/js/3.16be925e.chunk.js.map",
+    "index.html": "/personal-homepage/index.html",
+    "static/js/2.174497e2.chunk.js.LICENSE.txt": "/personal-homepage/static/js/2.174497e2.chunk.js.LICENSE.txt",
+    "static/media/envelope.6e2dda49.svg": "/personal-homepage/static/media/envelope.6e2dda49.svg",
+    "static/media/facebook.256a8e27.svg": "/personal-homepage/static/media/facebook.256a8e27.svg",
+    "static/media/github.75c1f5fa.svg": "/personal-homepage/static/media/github.75c1f5fa.svg",
+    "static/media/kingapParasiewiczProfile.a4fb8206.jpg": "/personal-homepage/static/media/kingapParasiewiczProfile.a4fb8206.jpg",
+    "static/media/linkedin.1bf7280c.svg": "/personal-homepage/static/media/linkedin.1bf7280c.svg",
+    "static/media/spinner.120dff0a.svg": "/personal-homepage/static/media/spinner.120dff0a.svg",
+    "static/media/sun.c18d6053.svg": "/personal-homepage/static/media/sun.c18d6053.svg",
+    "static/media/talk.4971119e.svg": "/personal-homepage/static/media/talk.4971119e.svg",
+    "static/media/warning.a7d3c1a3.svg": "/personal-homepage/static/media/warning.a7d3c1a3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfedf288.js",
+    "static/js/2.174497e2.chunk.js",
+    "static/js/main.ff8e185f.chunk.js"
+  ]
+}
